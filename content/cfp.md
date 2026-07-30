@@ -14,7 +14,7 @@ To give a talk or lightning talk, email the following to [lrc-group@dartmouth.ed
 - A short note (a few paragraphs) outlining what you'd like to talk about and its impact on the future of constrained computing, whether theoretical or applied
 - Your availability during the conference (August 16-19)
 
-Please send talk applications by July 15, 2026. Acceptances will be sent out by July 20, 2026. Registration is free if confirmed by July 29, 2026; confirmations after that date are $400 to help cover venue and event costs. Travel and lodging will be covered based on our budget, with priority given to presenters.
+Please send talk applications by July 15, 2026. Acceptances will be sent out by July 20, 2026. Sponsored registration for LRC is currently full. We're still accepting general registrations for $400, which helps cover venue and event costs; these are reviewed on a rolling basis and confirmed as space allows.
 
 Instead of a formal paper submission, we are asking for brief, informal pitches for talks or discussion sessions. Please keep it conversational! We are looking for talks that will spark debate over coffee, not just lectures. We look forward to hearing what you're working on and hope you'll join us to help define the science of sufficiency!
 

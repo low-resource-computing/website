@@ -2,14 +2,12 @@
 {{ with .Params.note }}<p>{{ . }}</p>{{ end }}
 {{ range .Params.days }}
 <h2>{{ .date }}</h2>
-{{ $hasLocation := false }}
-{{ range .items }}{{ if .location }}{{ $hasLocation = true }}{{ end }}{{ end }}
 <table class="agenda-table">
   <thead>
     <tr>
       <th scope="col">Time</th>
-      <th scope="col">Subject</th>
-      {{ if $hasLocation }}<th scope="col">Location</th>{{ end }}
+      <th scope="col">What</th>
+      <th scope="col">Where</th>
     </tr>
   </thead>
   <tbody>
@@ -17,7 +15,7 @@
     <tr>
       <td>{{ .time }}</td>
       <td>{{ .event }}</td>
-      {{ if $hasLocation }}<td>{{ .location }}</td>{{ end }}
+      <td>{{ .location }}</td>
     </tr>
     {{ end }}
   </tbody>

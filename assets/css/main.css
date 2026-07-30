@@ -186,6 +186,7 @@ body {
     .agenda-table {
       width: 100%;
       border-collapse: collapse;
+      table-layout: fixed;
     }
 
     .agenda-table th,
@@ -197,8 +198,14 @@ body {
 
     .agenda-table th:first-child,
     .agenda-table td:first-child {
-      width: 1%;
+      width: 9em;
       white-space: nowrap;
+    }
+
+    .agenda-table th:last-child,
+    .agenda-table td:last-child {
+      width: 12em;
+      padding-inline-end: 0;
     }
 
     @media (max-width: 640px) {

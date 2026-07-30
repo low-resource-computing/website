@@ -8,7 +8,11 @@ We are hosted at Dartmouth College, in beautiful Hanover, NH.
 
 We have limited reserved space at the [Six South Street Hotel](https://sixsouth.com/) until July 23, 2026. Rooms are $289 a night in our discounted block — email [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu) to confirm your nights of stay and we will add you to the hotel block. You can pay at check-in.
 
-If that room block fills, we will post other options.
+If that room block fills, other options near campus include:
+
+- [Hanover Inn Dartmouth](https://www.hanoverinn.com/) — on campus, on the Dartmouth Green
+- [Residence Inn by Marriott Hanover Lebanon](https://www.marriott.com/en-us/hotels/lebri-residence-inn-hanover-lebanon/overview/) — all-suite hotel at Centerra, about 10 minutes from campus
+- [Hilton Garden Inn Hanover Lebanon](https://www.hilton.com/en/hotels/lebhagi-hilton-garden-inn-hanover-lebanon/) — near I-89 in Lebanon, about 10 minutes from campus
 
 ## Travel
 
