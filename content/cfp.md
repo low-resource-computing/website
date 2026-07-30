@@ -4,9 +4,7 @@ title: "Call for Participation"
 
 We're gathering a small, interdisciplinary group of researchers, engineers, and practitioners to explore systems that operate outside the mainstream: vintage computers, weird machines, biological computing, and beyond. We'll approach the limits of computation at its smallest scale by revisiting the problems that upscaling sidesteps.
 
-To attend, just email [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu) that you're interested!
-
-## Talks
+Prefer hands-on? LRC also runs on-demand project workshops — see [Attend](/attend/) for details.
 
 To give a talk or lightning talk, email the following to [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu):
 
@@ -14,7 +12,7 @@ To give a talk or lightning talk, email the following to [lrc-group@dartmouth.ed
 - A short note (a few paragraphs) outlining what you'd like to talk about and its impact on the future of constrained computing, whether theoretical or applied
 - Your availability during the conference (August 16-19)
 
-Please send talk applications by July 15, 2026. Acceptances will be sent out by July 20, 2026. Sponsored registration for LRC is currently full. We're still accepting general registrations for $400, which helps cover venue and event costs; these are reviewed on a rolling basis and confirmed as space allows.
+Please send talk applications by July 15, 2026. Acceptances will be sent out on a rolling basis after July 20, 2026.
 
 Instead of a formal paper submission, we are asking for brief, informal pitches for talks or discussion sessions. Please keep it conversational! We are looking for talks that will spark debate over coffee, not just lectures. We look forward to hearing what you're working on and hope you'll join us to help define the science of sufficiency!
 
@@ -27,15 +25,3 @@ To get ideas flowing, we've been thinking about the following areas. Please trea
 - Overdue Overhauls: How can we upgrade legacy, rigid, or vendor-locked hardware?
 
 We will be in touch shortly!
-
-## Project Time
-
-Project groups will be formed primarily on demand at the workshop — there's no need to propose or lead a project in advance. DARPA PM Dan Ridge will kick off project time with a motivating scenario. All attendees should plan to actively participate hands-on in the project work, so please bring computing infrastructure (e.g., a laptop ready for development) that lets you do that.
-
-### Previous project examples
-
-- TI-84 WASM interpreter
-- P2P LoRa
-- Echo server from comtrend ADSL2+ router to TRS-80 thermal printer output
-- 2bpp livestream mediated by ffmpeg on ppc32 linux over dialup
-- Fixing old Gameboys (and breaking old Gameboys)
