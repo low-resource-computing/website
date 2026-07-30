@@ -15,9 +15,38 @@
         h1,h2,h3 {
                 line-height:1.2
         }
+        p {
+                line-height: 1.6;
+                margin-block: 0 0;
+        }
+        p + p {
+                margin-block-start: 1em;
+        }
+        table {
+                width: 100%;
+                border-collapse: collapse;
+                max-width: 100%;
+        }
+        th,
+        td {
+                text-align: left;
+                padding-block: 0.35em;
+                padding-inline-end: 1.5em;
+        }
+        th:first-child,
+        td:first-child {
+                width: 1%;
+                white-space: nowrap;
+        }
         @media print{
                 body{
                         max-width:none
+                }
+        }
+        @media (max-width: 640px) {
+                table {
+                        display: block;
+                        overflow-x: auto;
                 }
         }
 </style>

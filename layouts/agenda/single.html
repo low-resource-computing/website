@@ -2,11 +2,25 @@
 {{ with .Params.note }}<p>{{ . }}</p>{{ end }}
 {{ range .Params.days }}
 <h2>{{ .date }}</h2>
-<div class="agenda-timetable">
-  {{- range .items }}
-  <p>{{ .time }}</p>
-  <p>{{ .event }}</p>
-  {{- end }}
-</div>
+{{ $hasLocation := false }}
+{{ range .items }}{{ if .location }}{{ $hasLocation = true }}{{ end }}{{ end }}
+<table class="agenda-table">
+  <thead>
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Subject</th>
+      {{ if $hasLocation }}<th scope="col">Location</th>{{ end }}
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .items }}
+    <tr>
+      <td>{{ .time }}</td>
+      <td>{{ .event }}</td>
+      {{ if $hasLocation }}<td>{{ .location }}</td>{{ end }}
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
 {{ end }}
 {{ end }}

@@ -15,7 +15,15 @@ type: "archive"
 <a href="https://maps.app.goo.gl/9f3bNoyD9LMYCmQc9">Lunch Location</a>
 <a href="https://maps.app.goo.gl/UpNTFZpNegr5RzTx5">Afternoon Talks Location</a>
 
-<table cellspacing="5em" cellpadding="5em">
+<table class="agenda-table">
+<thead>
+<tr>
+<th scope="col">Time</th>
+<th scope="col">Subject</th>
+<th scope="col">Speaker</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>9:00</td>
 <td>Check-In & Coffee</td>
@@ -89,11 +97,20 @@ type: "archive"
 <td>Dinner</td>
 <td>Hanover Inn, Ballroom West</td>
 </tr>
+</tbody>
 </table>
 
 <h3>Tuesday 8/5</h3>
 <a href="https://maps.app.goo.gl/nkxiqUvwYxdteCAi9">Workshop Location</a>
-<table cellspacing="5em" cellpadding="5em">
+<table class="agenda-table">
+<thead>
+<tr>
+<th scope="col">Time</th>
+<th scope="col">Subject</th>
+<th scope="col">Speaker</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>9:30</td>
 <td>Dark Start (Coffee Available)</td>
@@ -141,11 +158,20 @@ type: "archive"
 <td>Drinks</td>
 <td>Location To Be Announced</td>
 </tr>
+</tbody>
 </table>
 
 <h3>Wednesday 8/6</h3>
 <a href="https://maps.app.goo.gl/nkxiqUvwYxdteCAi9">Workshop Location</a>
-<table cellspacing="5em" cellpadding="5em">
+<table class="agenda-table">
+<thead>
+<tr>
+<th scope="col">Time</th>
+<th scope="col">Subject</th>
+<th scope="col">Speaker</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>9:30</td>
 <td>Workshop Begins (Coffee Available)</td>
@@ -164,6 +190,7 @@ type: "archive"
 <td>5:00</td>
 <td>Workshop End</td>
 </tr>
+</tbody>
 </table>
 
 <footer>

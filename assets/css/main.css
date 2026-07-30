@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
   background-color: #100c08;
   color: #fff;
@@ -17,17 +23,29 @@ h6,
 p,
 nav,
 a,
-li {
+li,
+table,
+th,
+td {
   font-family:
     Space Mono,
     monospace;
   font-weight: 400;
   font-style: normal;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+}
 h2 {
   font-size: 1.75em;
   margin: 0;
   color: #ffb000;
+  letter-spacing: 0.01em;
 }
 
 ul,
@@ -35,7 +53,20 @@ li {
   padding-block: 0;
 }
 
-p,
+li {
+  margin-block: 0.35em;
+}
+
+p {
+  font-size: 1em;
+  margin: 0;
+  line-height: 1.6;
+}
+
+p + p {
+  margin-block-start: 1em;
+}
+
 a,
 nav {
   font-size: 1em;
@@ -59,7 +90,9 @@ body {
 
   #frame {
     margin: auto;
-    width: 80em;
+    max-width: 80em;
+    width: 100%;
+    padding-inline: 1em;
 
     #home-content-frame {
       display: flex;
@@ -68,6 +101,13 @@ body {
       #home-when-where {
         display: flex;
         flex-direction: column;
+      }
+    }
+
+    @media (max-width: 640px) {
+      #home-content-frame {
+        flex-direction: column;
+        gap: 1em;
       }
     }
 
@@ -110,10 +150,62 @@ body {
         width: 100%;
         display: flex;
         justify-content: right;
+        flex-wrap: wrap;
 
         a {
           padding-inline: 0.5em;
+          padding-block: 0.5em;
         }
+      }
+    }
+
+    @media (max-width: 640px) {
+      #header-frame {
+        padding-block: 2.5em;
+        padding-inline: 1.25em;
+
+        #title-frame {
+          flex-direction: column;
+          gap: 1em;
+          align-items: flex-start;
+
+          pre {
+            font-size: clamp(0.5em, 1.2vw, 0.75em);
+            white-space: pre;
+          }
+        }
+      }
+    }
+
+    /* agenda table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .agenda-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .agenda-table th,
+    .agenda-table td {
+      text-align: left;
+      padding-block: 0.35em;
+      padding-inline-end: 2em;
+    }
+
+    .agenda-table th:first-child,
+    .agenda-table td:first-child {
+      width: 1%;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 640px) {
+      table,
+      .agenda-table {
+        display: block;
+        overflow-x: auto;
       }
     }
   }
