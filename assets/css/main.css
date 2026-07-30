@@ -1,0 +1,120 @@
+html {
+  background-color: #100c08;
+  color: #fff;
+}
+
+div {
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+nav,
+a,
+li {
+  font-family:
+    Space Mono,
+    monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  font-size: 1.75em;
+  margin: 0;
+  color: #ffb000;
+}
+
+ul,
+li {
+  padding-block: 0;
+}
+
+p,
+a,
+nav {
+  font-size: 1em;
+  margin: 0;
+}
+
+a {
+  color: #fd1;
+}
+a:visited,
+a:active,
+a:hover {
+  color: #ffb000;
+}
+a:hover {
+  text-decoration-thickness: 0.2em;
+}
+
+body {
+  margin: 0;
+
+  #frame {
+    margin: auto;
+    width: 80em;
+
+    #home-content-frame {
+      display: flex;
+      gap: 2em;
+
+      #home-when-where {
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+    .agenda-timetable {
+      display: grid;
+      grid-template-columns: 1fr 7fr;
+    }
+
+    #prev-frame {
+      display: flex;
+      flex-direction: column;
+      margin-block: 2em;
+    }
+
+    #header-frame {
+      background-color: #1b1a17;
+      padding-block: 8em;
+      padding-inline: 3em;
+
+      #title-frame {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+        pre {
+          margin: 0;
+          padding: 0;
+          font-family:
+            Space Mono,
+            monospace;
+          font-size: 1em;
+        }
+        #title {
+          font-size: 2em;
+        }
+      }
+
+      nav {
+        width: 100%;
+        display: flex;
+        justify-content: right;
+
+        a {
+          padding-inline: 0.5em;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div id="prev-frame">
+  {{- range .Params.iterations }}
+  <a href="{{ .url }}">{{ .label }}</a>
+  {{- end }}
+</div>
+{{ end }}

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div id="home-content-frame">
+  <div id="home-when-where">
+    {{ with .Params.location }}
+    <p>
+      {{- range $i, $line := . -}}
+        {{- if $i }}<br />{{ end }}
+        {{- $line -}}
+      {{- end -}}
+    </p>
+    {{ end }}
+    {{ with .Params.dates }}
+    <p>{{ . }}</p>
+    {{ end }}
+    {{ $email := .Params.email | default site.Params.email }}
+    <a href="mailto:{{ $email }}">{{ $email }}</a>
+  </div>
+  <div>
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

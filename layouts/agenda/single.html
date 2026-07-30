@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ with .Params.note }}<p>{{ . }}</p>{{ end }}
+{{ range .Params.days }}
+<h2>{{ .date }}</h2>
+<div class="agenda-timetable">
+  {{- range .items }}
+  <p>{{ .time }}</p>
+  <p>{{ .event }}</p>
+  {{- end }}
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,37 @@
+baseURL = "https://lrc.cs.dartmouth.edu/"
+locale = "en-us"
+title = "Low Resource Computing"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  email = "lrc-group@dartmouth.edu"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Agenda"
+  pageRef = "/agenda"
+  weight = 2
+
+[[menus.main]]
+  name = "CFP"
+  pageRef = "/cfp"
+  weight = 3
+
+[[menus.main]]
+  name = "Logistics"
+  pageRef = "/logistics"
+  weight = 4
+
+[[menus.main]]
+  name = "Previous LRCs"
+  pageRef = "/previous"
+  weight = 5
