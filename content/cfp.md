@@ -6,13 +6,15 @@ We're gathering a small, interdisciplinary group of researchers, engineers, and 
 
 To attend, just email [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu) that you're interested!
 
-To lead a project or give a talk/lightning talk, email the following to [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu):
+## Talks
+
+To give a talk or lightning talk, email the following to [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu):
 
 - Who you are
-- A short note (a few paragraphs) outlining what you'd like to talk about or work on and its impact on the future of constrained computing, whether theoretical or applied
+- A short note (a few paragraphs) outlining what you'd like to talk about and its impact on the future of constrained computing, whether theoretical or applied
 - Your availability during the conference (August 16-19)
 
-Please send presentation and project applications by July 15, 2026. Acceptances will be sent out by July 20, 2026. *The workshop is free*; travel and lodging will be covered based on our budget, with priority given to presenters.
+Please send talk applications by July 15, 2026. Acceptances will be sent out by July 20, 2026. Registration is free if confirmed by July 29, 2026; confirmations after that date are $400 to help cover venue and event costs. Travel and lodging will be covered based on our budget, with priority given to presenters.
 
 Instead of a formal paper submission, we are asking for brief, informal pitches for talks or discussion sessions. Please keep it conversational! We are looking for talks that will spark debate over coffee, not just lectures. We look forward to hearing what you're working on and hope you'll join us to help define the science of sufficiency!
 
@@ -26,7 +28,11 @@ To get ideas flowing, we've been thinking about the following areas. Please trea
 
 We will be in touch shortly!
 
-## Previous project examples
+## Project Time
+
+Project groups will be formed primarily on demand at the workshop — there's no need to propose or lead a project in advance. DARPA PM Dan Ridge will kick off project time with a motivating scenario. All attendees should plan to actively participate hands-on in the project work, so please bring computing infrastructure (e.g., a laptop ready for development) that lets you do that.
+
+### Previous project examples
 
 - TI-84 WASM interpreter
 - P2P LoRa
