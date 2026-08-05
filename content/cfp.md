@@ -4,7 +4,7 @@ title: "Call for Participation"
 
 We're gathering a small, interdisciplinary group of researchers, engineers, and practitioners to explore systems that operate outside the mainstream: vintage computers, weird machines, biological computing, and beyond. We'll approach the limits of computation at its smallest scale by revisiting the problems that upscaling sidesteps.
 
-Prefer hands-on? LRC also runs on-demand project workshops — see [Attend](/attend/) for details.
+Prefer hands-on? LRC also runs on-demand project workshops - see [Attend]({{< relref "attend.md" >}}) for details.
 
 To give a talk or lightning talk, email the following to [lrc-group@dartmouth.edu](mailto:lrc-group@dartmouth.edu):
 
