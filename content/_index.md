@@ -9,6 +9,10 @@ email: "lrc-group@dartmouth.edu"
 
 ## Looking Back, Looking Forward
 
+Dartmouth College and DARPA are coming together to host a small, invitational workshop on the future of Low Resource Computing. We are gathering a tight-knit group of researchers, engineers, and applied practitioners to talk about what happens when computing is pushed to its absolute limits.
+
+The prevailing narrative in tech right now is scale—massive data centers and boundless compute. But we want to talk about the opposite. We want to explore Actionable Modernization and what it means to thrive in the margins. How do we build, sustain, and upgrade systems when power, memory, and hardware flexibility are extremely constrained?
+
 Computation started as a puzzle. We built national banking systems using 92kIPS microprocessors. We built rendering engines using a PDP-8 and a DAC. We flew to the moon with a 2MHz CPU and a slide rule. The resources behind these accomplishments look modest only in hindsight. What is trivial now was enough then.
 
 Somewhere along the way, we lost sight of this goal. Software wastes hardware because it can afford to do so. We use Electron, wrangling the whole Chrome V8 engine, just to edit text; we ask gigawatt data centers what the weather will be tomorrow. It's a competition to see how much compute and money we can throw at our problems before they fix themselves. Exascale datacenters keep growing, gigawatt compute farms keep chugging more electricity, and billion-dollar networks keep asking for more money. It's a race to the bottom, and other than being boring and expensive, it's impossible to keep growing like this forever.

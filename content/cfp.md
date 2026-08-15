@@ -2,7 +2,7 @@
 title: "Call for Participation"
 ---
 
-We're gathering a small, interdisciplinary group of researchers, engineers, and practitioners to explore systems that operate outside the mainstream: vintage computers, weird machines, biological computing, and beyond. We'll approach the limits of computation at its smallest scale by revisiting the problems that upscaling sidesteps.
+Dartmouth College and DARPA are coming together to host a small, invitational workshop on the future of Low Resource Computing. We're gathering a tight-knit group of researchers, engineers, and applied practitioners to explore what happens when computing is pushed to its absolute limits—vintage computers, weird machines, biological computing, and beyond. We'll approach the limits of computation at its smallest scale by revisiting the problems that upscaling sidesteps.
 
 Prefer hands-on? LRC also runs on-demand project workshops - see [Attend]({{< relref "attend.md" >}}) for details.
 
