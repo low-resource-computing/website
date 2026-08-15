@@ -16,40 +16,73 @@ days:
       - time: "9:30"
         event: "Opening remarks"
         location: "ECSC atrium"
-      - time: "10:00"
+      - time: "10:30"
         event: '"UNIX v4: History and Recovery" (Thalia Archibald)'
         location: "Spanos auditorium"
-      - time: "10:15"
+      - time: "11:00"
+        event: 'Talk TBA'
+        location: "Spanos auditorium"
+      - time: "11:30"
         event: "Coffee break"
         location: "Spanos auditorium"
-      - time: "10:30"
+      - time: "11:45"
+        event: 'Talk TBA'
+        location: "Spanos auditorium"
+      - time: "12:15"
         event: '"Bootstrapping" (Jack Leightcap)'
         location: "Spanos auditorium"
-      - time: "12:30"
+      - time: "12:45"
         event: "Lunch"
         location: "ECSC atrium"
       - time: "14:30"
-        event: '"the c64 does not have the computational power to do the cryptography itself" (Justin Cordesman) / "Rhodes: A Universal Turing Machine on Colossus" (Jonah Weinbaum)'
-        location: "ECSC atrium"
+        event: '"the c64 does not have the computational power to do the cryptography itself" (Justin Cordesman)'
+        location: "Spanos auditorium"
+      - time: "15:00"
+        event: '"Rhodes: A Universal Turing Machine on Colossus" (Jonah Weinbaum)'
+        location: "Spanos auditorium"
       - time: "15:30"
-        event: '"A Hands-On Introduction to Mask ROM Reverse Engineering with the GameBoy" (Travis Goodspeed) / "Computing like it''s 1974: Timesharing with UNIX and teletypes" (Thalia Archibald)'
+        event: 'Workshop Kickoff (Dan Ridge)'
+        location: ""
+      - time: "16:30"
+        event: 'Hands On: "A Hands-On Introduction to Mask ROM Reverse Engineering with the GameBoy" (Travis Goodspeed)'
+        location: ""
+      - time: "17:00"
+        event: 'Hands On: "Computing like it''s 1974: Timesharing with UNIX and teletypes" (Thalia Archibald)'
         location: ""
       - time: "18:30"
         event: "Dinner Reception"
-        location: "DOC house"
+        location: "DOC house (end of Rope Ferry Rd, then turn left)"
   - date: "Tuesday, August 18"
     items:
       - time: "9:00"
         event: "Breakfast and coffee"
         location: "ECSC 116"
       - time: "9:30"
-        event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski), "Game Boy Advance Homebrew for Fun and Profit" (Auberon López), "The Wacky World of Texan Computing" (Charles Averill), and day-of signups'
+        event: 'Workshop resumes'
+        location: ""
+      - time: "9:30"
+        event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
+        location: "ECSC 008"
+      - time: "10:00"
+        event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
+        location: "ECSC 008"
+      - time: "10:30"
+        event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
+        location: "ECSC 008"
+      - time: "11:00"
+        event: 'Lightning talks: day-of signups'
         location: "ECSC 008"
       - time: "12:30"
         event: "Lunch"
         location: "ECSC patio"
+      - time: "13:30"
+        event: 'Workshop resumes'
+        location: ""
       - time: "14:30"
-        event: '"Programming your own Smart Card for Fun (and profit?)" (Trey Keown) / Old hardware sale'
+        event: 'Hands-On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
+        location: ""
+      - time: "16:00"
+        event: 'Activity: Old hardware sale'
         location: ""
       - time: "18:00"
         event: "End of scheduled programming"
@@ -60,15 +93,15 @@ days:
         event: "Breakfast and coffee"
         location: "ECSC atrium"
       - time: "9:30"
-        event: "Workshop Part 3"
+        event: "Workshop resumes"
         location: ""
       - time: "12:00"
         event: "Lunch"
         location: ""
       - time: "13:30"
-        event: "Workshop finale and presentations"
+        event: "Workshop presentations"
         location: ""
       - time: "16:30"
-        event: "Closing remarks"
-        location: "ECSC atrium"
+        event: "Closing remarks (Dan Ridge)"
+        location: ""
 ---
