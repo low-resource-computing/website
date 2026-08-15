@@ -16,22 +16,22 @@ days:
       - time: "9:30"
         event: "Opening remarks"
         location: "ECSC atrium"
-      - time: "10:30"
+      - time: "10:00"
         event: '"UNIX v4: History and Recovery" (Thalia Archibald)'
         location: "Spanos auditorium"
-      - time: "11:00"
+      - time: "10:30"
         event: 'Talk TBA'
         location: "Spanos auditorium"
-      - time: "11:30"
+      - time: "11:00"
         event: "Coffee break"
         location: "Spanos auditorium"
-      - time: "11:45"
+      - time: "11:15"
         event: 'Talk TBA'
         location: "Spanos auditorium"
-      - time: "12:15"
+      - time: "11:45"
         event: '"Bootstrapping" (Jack Leightcap)'
         location: "Spanos auditorium"
-      - time: "12:45"
+      - time: "12:30"
         event: "Lunch"
         location: "ECSC atrium"
       - time: "14:30"
@@ -79,7 +79,7 @@ days:
         event: 'Workshop resumes'
         location: ""
       - time: "14:30"
-        event: 'Hands-On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
+        event: 'Hands On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
         location: ""
       - time: "16:00"
         event: 'Activity: Old hardware sale'
