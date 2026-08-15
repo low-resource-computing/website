@@ -29,7 +29,7 @@ days:
         event: "Lunch"
         location: "ECSC atrium"
       - time: "14:30"
-        event: '"the c64 does not have the computational power to do the cryptography itself" (Justin Cordesman)'
+        event: '"the c64 does not have the computational power to do the cryptography itself" (Justin Cordesman) / "Rhodes: A Universal Turing Machine on Colossus" (Jonah Weinbaum)'
         location: "ECSC atrium"
       - time: "15:30"
         event: '"A Hands-On Introduction to Mask ROM Reverse Engineering with the GameBoy" (Travis Goodspeed) / "Computing like it''s 1974: Timesharing with UNIX and teletypes" (Thalia Archibald)'
@@ -41,7 +41,7 @@ days:
     items:
       - time: "9:00"
         event: "Breakfast and coffee"
-        location: "ECSC atrium"
+        location: "ECSC 116"
       - time: "9:30"
         event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski), "Game Boy Advance Homebrew for Fun and Profit" (Auberon López), "The Wacky World of Texan Computing" (Charles Averill), and day-of signups'
         location: "ECSC 008"
@@ -52,7 +52,7 @@ days:
         event: '"Programming your own Smart Card for Fun (and profit?)" (Trey Keown) / Old hardware sale'
         location: ""
       - time: "18:00"
-        event: "Scheduled programming concludes"
+        event: "End of scheduled programming"
         location: ""
   - date: "Wednesday, August 19"
     items:
