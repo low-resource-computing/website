@@ -63,13 +63,16 @@ days:
       - time: "9:30"
         event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
         location: "ECSC 008"
-      - time: "10:00"
+      - time: "9:45"
         event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
         location: "ECSC 008"
-      - time: "10:30"
+      - time: "10:00"
         event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
         location: "ECSC 008"
-      - time: "11:00"
+      - time: "10:15"
+        event: 'Lightning talks: "PERSIST: Persistent Energy-Adaptive Stochastic Computing for Autonomous Low-Resource Sensing" (M. Hassan Najafi)'
+        location: "ECSC 008"
+      - time: "10:30"
         event: 'Lightning talks: day-of signups'
         location: "ECSC 008"
       - time: "12:30"
