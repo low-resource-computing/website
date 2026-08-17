@@ -67,7 +67,7 @@ days:
         event: 'Lightning talks: "PERSIST: Persistent Energy-Adaptive Stochastic Computing for Autonomous Low-Resource Sensing" (M. Hassan Najafi)'
         location: "ECSC 008"
       - time: "10:30"
-        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Brian, Adithya)'
+        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Adithya Pediredla)'
         location: "ECSC 008"
       - time: "10:45"
         event: 'Lightning talks: day-of signups'
@@ -87,6 +87,7 @@ days:
       - time: "17:00"
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
         location: "ECSC 020"
+
       - time: "18:00"
         event: "End of scheduled programming"
         location: ""
