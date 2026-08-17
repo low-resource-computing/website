@@ -34,12 +34,12 @@ days:
       - time: "15:00"
         event: '"Rhodes: A Universal Turing Machine on Colossus" (Jonah Weinbaum)'
         location: "Spanos auditorium"
-      - time: "15:30"
+      - time: "16:00"
         event: 'Workshop Kickoff (Dan Ridge)'
         location: ""
-      - time: "16:30"
+      - time: "16:15"
         event: 'Hands On: "A Hands-On Introduction to Mask ROM Reverse Engineering with the GameBoy" (Travis Goodspeed)'
-        location: ""
+        location: "EESC 008"
       - time: "17:00"
         event: 'Hands On: "Computing like it''s 1974: Timesharing with UNIX and teletypes" (Thalia Archibald)'
         location: ""
