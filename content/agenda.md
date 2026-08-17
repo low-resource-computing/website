@@ -16,17 +16,11 @@ days:
       - time: "9:30"
         event: "Opening remarks"
         location: "ECSC atrium"
-      - time: "10:00"
+      - time: "10:30"
         event: '"UNIX v4: History and Recovery" (Thalia Archibald)'
         location: "Spanos auditorium"
-      - time: "10:30"
-        event: 'Talk TBA'
-        location: "Spanos auditorium"
-      - time: "11:00"
-        event: "Coffee break"
-        location: "Spanos auditorium"
       - time: "11:15"
-        event: 'Talk TBA'
+        event: 'Glitching talk (Rahul S)'
         location: "Spanos auditorium"
       - time: "11:45"
         event: '"Bootstrapping" (Jack Leightcap)'
