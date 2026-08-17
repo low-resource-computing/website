@@ -17,7 +17,7 @@ days:
         event: "Opening remarks"
         location: "ECSC atrium"
       - time: "10:30"
-        event: '"UNIX v4: History and Recovery" (Thalia Archibald)'
+        event: '"UNIX V4: History and Recovery" (Thalia Archibald)'
         location: "Spanos auditorium"
       - time: "11:15"
         event: 'Glitching talk (Rahul S)'
