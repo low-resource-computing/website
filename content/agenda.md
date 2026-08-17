@@ -75,19 +75,18 @@ days:
       - time: "12:30"
         event: "Lunch"
         location: "ECSC patio"
+      - time: "12:30"
+        event: 'Activity: Old hardware sale'
+        location: "ECSC atrium"
       - time: "13:30"
         event: 'Workshop resumes'
         location: ""
       - time: "14:30"
         event: 'Hands On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
         location: ""
-      - time: "16:00"
-        event: 'Activity: Old hardware sale'
-        location: ""
       - time: "17:00"
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
         location: "ECSC 020"
-
       - time: "18:00"
         event: "End of scheduled programming"
         location: ""
