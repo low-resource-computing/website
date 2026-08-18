@@ -61,7 +61,7 @@ days:
         event: 'Lightning talks: (Weidong)'
         location: "ECSC 008"
       - time: "10:30"
-        event: 'Lightning talks: (Tianyu Wang)'
+        event: 'LRC In Practice Annoucements'
         location: "ECSC 008"
       - time: "10:30"
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
@@ -70,9 +70,6 @@ days:
         event: 'Lightning talks: (Trey Keown)'
         location: "ECSC 008"
       - time: "11:00"
-        event: 'LRC In Practice Annoucements'
-        location: "ECSC 008"
-      - time: "11:05"
         event: 'Lightning talks: Optimizing Tiny Robot Compute Systems (Brian Plancher)'
         location: "ECSC 008"
       - time: "11:15"
