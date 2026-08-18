@@ -78,9 +78,6 @@ days:
       - time: "11:30"
         event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
         location: "ECSC 008"
-      - time: "11:30"
-        event: 'Hands-On: Teletype/etc (Thalia Archibald)'
-        location: "ECSC 009"
       - time: "11:45"
         event: 'Lightning talks: (Ben Kallus)'
         location: "ECSC 008"
@@ -93,6 +90,9 @@ days:
       - time: "12:30"
         event: "Lunch"
         location: "ECSC patio"
+      - time: "12:30"
+        event: 'Hands-On: Teletype/etc (Thalia Archibald)'
+        location: "ECSC 009"
       - time: "12:30"
         event: 'Activity: Old hardware sale'
         location: "ECSC atrium"
