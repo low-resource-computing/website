@@ -109,6 +109,9 @@ days:
         event: 'Lightning talks: Liquid Metal Harmonic Interface (Michael V)'
         location: "ECSC 008"
       - time: "13:30"
+        event: 'Lightning talks: Design of polymophic software for complementary computations using emergent execution iwith implicit weird machines:JANUS (Greg Briskin)'
+        location: "ECSC 008"
+      - time: "13:45"
         event: 'Workshop resumes'
         location: ""
       - time: "14:30"
