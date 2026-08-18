@@ -58,19 +58,19 @@ days:
         event: 'Lightning talks: "PERSIST: Persistent Energy-Adaptive Stochastic Computing for Autonomous Low-Resource Sensing" (M. Hassan Najafi)'
         location: "ECSC 008"
       - time: "10:00"
-        event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
-        location: "ECSC 008"
-      - time: "10:15"
         event: 'Lightning talks: (Weidong)'
         location: "ECSC 008"
-      - time: "10:30"
+      - time: "10:15"
         event: 'Lightning talks: (Tianyu Wang)'
         location: "ECSC 008"
-      - time: "10:30"
+      - time: "10:15"
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
         location: "ECSC 020"
-      - time: "10:45"
+      - time: "10:30"
         event: 'Lightning talks: (Trey Keown)'
+        location: "ECSC 008"
+      - time: "10:45"
+        event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
         location: "ECSC 008"
       - time: "11:00"
         event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
@@ -81,13 +81,22 @@ days:
       - time: "11:30"
         event: 'Lightning talks: (Ben Kallus)'
         location: "ECSC 008"
-      - time: "x:00"
-        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Adithya Pediredla)'
+      - time: "11:45"
+        event: 'Lightning talks: (Jordan W)'
         location: "ECSC 008"
-      - time: "x:00"
+      - time: "12:00"
         event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
         location: "ECSC 008"
-      - time: "x:00"
+      - time: "12:15"
+        event: 'Lightning talks: (Ryan K)'
+        location: "ECSC 008"
+      - time: "12:30"
+        event: 'Lightning talks: (Amit Brahmbhatt)'
+        location: "ECSC 008"
+      - time: "12:45"
+        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Adithya Pediredla)'
+        location: "ECSC 008"
+      - time: "13:00"
         event: 'Lightning talks: Liquid Metal Harmonic Interface (Michael V)'
         location: "ECSC 008"
       - time: "12:30"
