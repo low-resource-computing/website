@@ -123,6 +123,12 @@ days:
       - time: "14:30"
         event: 'Hands On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
         location: ""
+      - time: "16:30"
+        event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
+        location: "ECSC 020"
+      - time: "16:30"
+        event: 'Research demos: Robotics'
+        location: "ECSC TBD"
       - time: "18:00"
         event: "End of scheduled programming"
         location: ""
