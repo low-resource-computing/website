@@ -112,8 +112,14 @@ days:
         event: 'Lightning talks: Design of polymophic software for complementary computations using emergent execution iwith implicit weird machines:JANUS (Greg Briskin)'
         location: "ECSC 008"
       - time: "13:45"
+        event: 'Lightning talks: (Andrew Projansky)'
+        location: "ECSC 008"
+      - time: "13:45"
         event: 'Workshop resumes'
-        location: ""
+        location: "Couch II"
+      - time: "14:00"
+        event: 'Lightning talks: (Ningyuan Cao)'
+        location: "ECSC 008"
       - time: "14:30"
         event: 'Hands On: "Programming your own Smart Card for Fun (and profit?)" (Trey Keown)'
         location: ""
