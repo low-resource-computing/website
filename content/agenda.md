@@ -127,8 +127,8 @@ days:
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
         location: "ECSC 020"
       - time: "16:30"
-        event: 'Research demos: Robotics'
-        location: "ECSC TBD"
+        event: 'Research demos: Drone flights'
+        location: "ECSC 114"
       - time: "18:00"
         event: "End of scheduled programming"
         location: ""
