@@ -49,8 +49,8 @@ days:
         event: "Breakfast and coffee"
         location: "ECSC 116"
       - time: "9:45"
-        event: 'Workshop resumes & announcements'
-        location: ""
+        event: 'Workshop resumes'
+        location: "Couch II"
       - time: "09:45"
         event: 'Lightning talks: (Nathan Green)'
         location: "ECSC 008"
@@ -70,22 +70,25 @@ days:
         event: 'Lightning talks: (Trey Keown)'
         location: "ECSC 008"
       - time: "11:00"
+        event: 'LRC In Practice Annoucements'
+        location: "ECSC 008"
+      - time: "11:05"
+        event: 'Lightning talks: Optimizing Tiny Robot Compute Systems (Brian Plancher)'
+        location: "ECSC 008"
+      - time: "11:15"
         event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
         location: "ECSC 008"
-      - time: "11:00"
-        event: 'Hands-On: Teletype/etc (Thalia Archibald)'
-        location: "ECSC 009"
-      - time: "11:15"
+      - time: "11:30"
         event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
         location: "ECSC 008"
       - time: "11:30"
-        event: 'Lightning talks: Optimizing Tiny Robot Compute Systems (Brian Plancher)'
-        location: "ECSC 008"
+        event: 'Hands-On: Teletype/etc (Thalia Archibald)'
+        location: "ECSC 009"
       - time: "11:45"
         event: 'Lightning talks: (Ben Kallus)'
         location: "ECSC 008"
       - time: "12:00"
-        event: 'Lightning talks: (Jordan W)'
+        event: 'Lightning talks: (Jordan Moore)'
         location: "ECSC 008"
       - time: "12:15"
         event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
