@@ -48,56 +48,47 @@ days:
       - time: "9:00"
         event: "Breakfast and coffee"
         location: "ECSC 116"
-      - time: "9:30"
+      - time: "9:45"
         event: 'Workshop resumes & announcements'
         location: ""
-      - time: "09:30"
+      - time: "09:45"
         event: 'Lightning talks: (Nathan Green)'
         location: "ECSC 008"
-      - time: "09:45"
+      - time: "10:00"
         event: 'Lightning talks: "PERSIST: Persistent Energy-Adaptive Stochastic Computing for Autonomous Low-Resource Sensing" (M. Hassan Najafi)'
         location: "ECSC 008"
-      - time: "10:00"
+      - time: "10:15"
         event: 'Lightning talks: (Weidong)'
         location: "ECSC 008"
-      - time: "10:15"
+      - time: "10:30"
         event: 'Lightning talks: (Tianyu Wang)'
         location: "ECSC 008"
-      - time: "10:15"
+      - time: "10:30"
         event: 'Research demos: (i) Seeing sound with light (ii) Controlling light with sound (iii) Shuttered event camera (iv) Neuromorphic microscopy.'
         location: "ECSC 020"
-      - time: "10:30"
+      - time: "10:45"
         event: 'Lightning talks: (Trey Keown)'
         location: "ECSC 008"
-      - time: "10:45"
+      - time: "11:00"
         event: 'Lightning talks: "Taste the 8-bit Rainbow" (Michael Krasnitski)'
         location: "ECSC 008"
       - time: "11:00"
+        event: 'Hands-On: Teletype/etc (Thalia Archibald)'
+        location: "ECSC 009"
+      - time: "11:15"
         event: 'Lightning talks: "Game Boy Advance Homebrew for Fun and Profit" (Auberon López)'
         location: "ECSC 008"
-      - time: "11:15"
+      - time: "11:30"
         event: 'Lightning talks: Optimizing Tiny Robot Compute Systems (Brian Plancher)'
         location: "ECSC 008"
-      - time: "11:30"
+      - time: "11:45"
         event: 'Lightning talks: (Ben Kallus)'
         location: "ECSC 008"
-      - time: "11:45"
+      - time: "12:00"
         event: 'Lightning talks: (Jordan W)'
         location: "ECSC 008"
-      - time: "12:00"
-        event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
-        location: "ECSC 008"
       - time: "12:15"
-        event: 'Lightning talks: (Ryan K)'
-        location: "ECSC 008"
-      - time: "12:30"
-        event: 'Lightning talks: (Amit Brahmbhatt)'
-        location: "ECSC 008"
-      - time: "12:45"
-        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Adithya Pediredla)'
-        location: "ECSC 008"
-      - time: "13:00"
-        event: 'Lightning talks: Liquid Metal Harmonic Interface (Michael V)'
+        event: 'Lightning talks: "The Wacky World of Texan Computing" (Charles Averill)'
         location: "ECSC 008"
       - time: "12:30"
         event: "Lunch"
@@ -105,6 +96,18 @@ days:
       - time: "12:30"
         event: 'Activity: Old hardware sale'
         location: "ECSC atrium"
+      - time: "12:30"
+        event: 'Lightning talks: (Ryan K)'
+        location: "ECSC 008"
+      - time: "12:45"
+        event: 'Lightning talks: (Amit Brahmbhatt)'
+        location: "ECSC 008"
+      - time: "13:00"
+        event: 'The Physics Does the FLOP: Light, sound, and analog silicon for low-power sensing and communication" (Adithya Pediredla)'
+        location: "ECSC 008"
+      - time: "13:15"
+        event: 'Lightning talks: Liquid Metal Harmonic Interface (Michael V)'
+        location: "ECSC 008"
       - time: "13:30"
         event: 'Workshop resumes'
         location: ""
